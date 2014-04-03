@@ -14,7 +14,7 @@ You may want these for a presentation, a blog post or whatever. All logos are hi
 
 All these icons (except the logo) is also available in webfonts format.
 
-> Check [webcomponentsorg.github.io/webcomponents-icons](http://webcomponentsorg.github.io/webcomponents-icons/) for a live demo.
+> Check [webcomponents.github.io/webcomponents-icons](http://webcomponents.github.io/webcomponents-icons/) for a live demo.
 
 Open `fonts/style.css` to see a list of all the glyphs font along with their codes/ligatures.
 
