@@ -22,4 +22,4 @@ You can import `icomoon.json` back to the [IcoMoon app](http://icomoon.io/app/) 
 
 ## License
 
-Licensed under [Creative Commons BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US).
+[Creative Commons BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US) © WebComponents.org
