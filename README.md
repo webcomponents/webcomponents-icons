@@ -12,9 +12,7 @@ You may want these for a presentation, a blog post or whatever. All logos are hi
 
 ## Fonts
 
-All these icons (except the logo) is also available in webfonts format.
-
-> Check [webcomponents.github.io/webcomponents-icons](http://webcomponents.github.io/webcomponents-icons/) for a live demo.
+All these icons (except the logo) are also available in webfonts format.
 
 Open `fonts/style.css` to see a list of all the glyphs font along with their codes/ligatures.
 
