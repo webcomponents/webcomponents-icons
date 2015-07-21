@@ -23,10 +23,10 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-custom-elements:before {
+.icon-html-imports:before {
 	content: "\e602";
 }
-.icon-html-imports:before {
+.icon-custom-elements:before {
 	content: "\e603";
 }
 .icon-web-components:before {

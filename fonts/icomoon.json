@@ -8,19 +8,25 @@
 					"M311.654 205.142v152.44h96.113v-57.965h397.368v425.292h-399.055v-51.846h-94.425v145.768h587.931v-613.69h-587.931z"
 				],
 				"width": 1192,
-				"grid": 0,
+				"attrs": [],
+				"isMulticolor": false,
 				"tags": [
 					"customelements"
-				]
+				],
+				"grid": 0
 			},
+			"attrs": [],
 			"properties": {
-				"order": 1,
+				"order": 13,
 				"id": 4,
 				"prevSize": 32,
 				"code": 58882,
-				"name": "custom-elements",
+				"name": "html-imports",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"setId": 4,
+			"iconIdx": 0
 		},
 		{
 			"icon": {
@@ -30,19 +36,25 @@
 					"M755.983 595.359l195.927-83.22-195.927-83.195v-110.918l303.546 147.455v92.688l-303.546 147.455v-110.264z"
 				],
 				"width": 1192,
-				"grid": 0,
+				"attrs": [],
+				"isMulticolor": false,
 				"tags": [
 					"htmlimports"
-				]
+				],
+				"grid": 0
 			},
+			"attrs": [],
 			"properties": {
 				"order": 2,
 				"id": 5,
 				"prevSize": 32,
 				"code": 58883,
-				"name": "html-imports",
+				"name": "custom-elements",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"setId": 4,
+			"iconIdx": 1
 		},
 		{
 			"icon": {
@@ -59,11 +71,14 @@
 					"M584.431 309.237l-109.609 28.554-9.896 33.213 125.296-31.047z"
 				],
 				"width": 1192,
-				"grid": 0,
+				"attrs": [],
+				"isMulticolor": false,
 				"tags": [
 					"logovector"
-				]
+				],
+				"grid": 0
 			},
+			"attrs": [],
 			"properties": {
 				"order": 3,
 				"id": 6,
@@ -71,7 +86,10 @@
 				"code": 58884,
 				"name": "web-components",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"setId": 4,
+			"iconIdx": 2
 		},
 		{
 			"icon": {
@@ -79,11 +97,14 @@
 					"M926.15 666.392l-177.898-45.803 83.522-132.095h-113.159v-64.688h113.159l-129.35-107.821-21.529-140.153-84.958 16.166-84.907-16.166-21.579 140.153-129.375 107.821h113.21v64.688h-113.21l83.598 132.095-177.923 45.803-83.573 181.775h827.52z"
 				],
 				"width": 1192,
-				"grid": 0,
+				"attrs": [],
+				"isMulticolor": false,
 				"tags": [
 					"shadow"
-				]
+				],
+				"grid": 0
 			},
+			"attrs": [],
 			"properties": {
 				"order": 4,
 				"id": 7,
@@ -91,7 +112,10 @@
 				"code": 58885,
 				"name": "shadow-dom",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"setId": 4,
+			"iconIdx": 3
 		},
 		{
 			"icon": {
@@ -99,19 +123,25 @@
 					"M963.92 576.625v-122.753l-100.872-21.529-20.27-53.155 55.724-69.648-100.041-98.228-75.968 56.454-45.576-17.752-17.727-102.735h-125.347l-20.27 110.339-44.317 17.727-92.411-55.698-79.72 77.202 54.439 87.35-15.184 50.637-108.426 26.615v107.595l105.908 20.27 17.727 58.216-50.637 81.004 82.289 82.339 86.066-51.921 46.81 13.975 27.874 103.818h111.397l24.047-102.533 46.835-13.975 73.4 58.216 100.041-100.041-59.501-72.141 22.788-51.846 100.922-17.802zM746.288 574.258l-88.080 88.080h-124.566l-88.080-88.080v-124.566l88.080-88.080h124.566l88.080 88.080v124.566z"
 				],
 				"width": 1192,
-				"grid": 0,
+				"attrs": [],
+				"isMulticolor": false,
 				"tags": [
 					"template"
-				]
+				],
+				"grid": 0
 			},
+			"attrs": [],
 			"properties": {
-				"order": 5,
+				"order": 14,
 				"id": 8,
 				"prevSize": 32,
 				"code": 58886,
 				"name": "templates",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"setId": 4,
+			"iconIdx": 4
 		}
 	],
 	"height": 1024,
@@ -121,24 +151,32 @@
 	"preferences": {
 		"showGlyphs": true,
 		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true,
 		"fontPref": {
 			"prefix": "icon-",
 			"metadata": {
-				"fontFamily": "WebComponentsOrg"
+				"fontFamily": "WebComponentsOrg",
+				"majorVersion": 1,
+				"minorVersion": 0
 			},
 			"metrics": {
 				"emSize": 1024,
 				"baseline": 6.25,
 				"whitespace": 50
-			}
+			},
+			"resetPoint": 58880,
+			"embed": false
 		},
 		"imagePref": {
-			"color": 0,
-			"height": 32,
-			"columns": 16,
-			"margin": 16
+			"prefix": "icon-",
+			"png": true,
+			"useClassSelector": true,
+			"color": 4473924,
+			"bgColor": 16777215
 		},
 		"historySize": 100,
-		"showCodes": true
+		"showCodes": false,
+		"gridSize": 16
 	}
 }
